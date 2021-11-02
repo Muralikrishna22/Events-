@@ -1,0 +1,43 @@
+.registration-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-size: cover;
+  padding: 30px;
+  text-align: center;
+}
+
+.msg {
+  font-family: Roboto;
+  font-size: 30px;
+  font-weight: bold;
+  color: #323f4b;
+}
+.suggestion {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+  color: #475569;
+}
+.registered-view-image {
+  width: 10vw;
+}
+
+.yet-to-registered-view-image {
+  width: 80%;
+}
+.registrations-closed-image {
+  width: 80%;
+}
+
+.button {
+  background-color: blue;
+  color: #ffffff;
+  font-family: Roboto;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  width: 20vw;
+}

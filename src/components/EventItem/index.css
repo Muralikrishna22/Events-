@@ -1,0 +1,32 @@
+.list-item {
+  list-style-type: none;
+}
+
+.event-item {
+  margin: 20px;
+  height: 30vh;
+  width: 30vh;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.event-image {
+  width: 100%;
+}
+.event-name {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 25px;
+  color: #ffffff;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.event-location {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 17px;
+  color: #f8fafc;
+  margin-top: 0px;
+}
